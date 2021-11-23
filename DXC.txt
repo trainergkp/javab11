@@ -1,2 +1,7 @@
 Hello ! how are you ?
 Computer is an electronic device that calculates numbers.
+classification of computer on the basis of size
+1. Micro Computer
+2. Mini Computer
+3. Mainframe Computer
+4. Super computer
