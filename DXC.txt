@@ -5,3 +5,6 @@ classification of computer on the basis of size
 2. Mini Computer
 3. Mainframe Computer
 4. Super computer
+Classification of computer hardware
+1. CPU( Central Processiong Unit)
+2. Peripherals
